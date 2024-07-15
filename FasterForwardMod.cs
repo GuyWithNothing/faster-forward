@@ -89,7 +89,7 @@ public class FasterForwardMod : BloonsTD6Mod
                 {
                     if (i < 1)
                     {
-                        i = 1;
+                        i = 0.1;
                     }
 
                     if (i > 100)
